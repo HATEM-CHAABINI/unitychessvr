@@ -1,0 +1,109 @@
+ManifestFileVersion: 0
+CRC: 1759506943
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 5fd7712f46e8518c4e6e9cd9287f40b6
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 83b8db11ab7d1fdf95db522ace854ec3
+HashAppended: 0
+ClassTypes:
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 83
+  Script: {instanceID: 0}
+- Class: 109
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: ad074644ff568a14187a3690cfbd7534, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 20553fac56ec59645857c0732b787431, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 241
+  Script: {instanceID: 0}
+- Class: 243
+  Script: {instanceID: 0}
+- Class: 245
+  Script: {instanceID: 0}
+Assets:
+- Assets/Oculus/Avatar/Resources/FallbackTextures/fallback_diffuse_roughness_2048.png
+- Assets/infinite_fanstasy_free/Resources/heroic/med_end/2_heroic_start.ogg
+- Assets/Resources/OVRBuildConfig.asset
+- Assets/infinite_fanstasy_free/Resources/adventure/med/7_adventure_med.ogg
+- Assets/infinite_fanstasy_free/Resources/heroic/forte/4_heroic_forte.ogg
+- Assets/Oculus/Avatar/Resources/FallbackTextures/fallback_diffuse_roughness_256.png
+- Assets/infinite_fanstasy_free/Resources/heroic/soft_end/1_heroic_start.ogg
+- Assets/Oculus/Avatar/Resources/Materials/Version1.5/Avatar_PC_SingleComponent.shader
+- Assets/infinite_fanstasy_free/Resources/heroic/soft/7_heroic_soft.ogg
+- Assets/Oculus/VR/Resources/OVRMRUnlitTransparent.shader
+- Assets/Oculus/Avatar/Resources/FallbackTextures/fallback_normal_2048.png
+- Assets/infinite_fanstasy_free/Resources/adventure/forte_end/3_adventure_start.ogg
+- Assets/Oculus/VR/Resources/OVRMRChromaKey.cginc
+- Assets/infinite_fanstasy_free/Resources/ambiant/light_forest/7_ambiant.ogg
+- Assets/Oculus/SampleFramework/Core/Video/Resources/Multiview Stereo.shader
+- Assets/infinite_fanstasy_free/Resources/ambiant/light_forest/1_ambiant.ogg
+- Assets/infinite_fanstasy_free/Resources/adventure/med/5_adventure_med.ogg
+- Assets/infinite_fanstasy_free/Resources/heroic/forte/7_heroic_forte.ogg
+- Assets/infinite_fanstasy_free/Resources/heroic/med/7_heroic_med.ogg
+- Assets/infinite_fanstasy_free/Resources/ambiant/light_forest/2_ambiant.ogg
+- Assets/infinite_fanstasy_free/Resources/background/1_forest birds.wav
+- Assets/infinite_fanstasy_free/Resources/adventure/med_end/2_adventure_start.ogg
+- Assets/Oculus/Avatar/Resources/Materials/Version1.5/Avatar_Mobile_Loader.shader
+- Assets/infinite_fanstasy_free/Resources/heroic/soft/1_heroic_soft.ogg
+- Assets/infinite_fanstasy_free/Resources/heroic/med/2_heroic_med.ogg
+- Assets/Oculus/VR/Resources/Cubemap Blit.shader
+- Assets/Oculus/VR/Resources/OVRMRUnlit.shader
+- Assets/infinite_fanstasy_free/Resources/adventure/med/2_adventure_med.ogg
+- Assets/infinite_fanstasy_free/Resources/adventure/soft/1_adventure_soft.ogg
+- Assets/Oculus/Avatar/Resources/Materials/AvatarSurfaceShaderSelfOccluding.shader
+- Assets/Oculus/VR/Resources/Unlit Transparent Color.shader
+- Assets/Oculus/Avatar/Resources/Materials/AvatarSurfaceShaderPBS.shader
+- Assets/Oculus/VR/Resources/OVRMRCameraFrameLit.shader
+- Assets/infinite_fanstasy_free/Resources/heroic/forte/2_heroic_forte.ogg
+- Assets/Oculus/Avatar/Resources/Materials/Version1.5/Avatar_Mobile_CombinedMesh.shader
+- Assets/DaydreamElements/Main/Resources/Materials/UIFontOverlayNoZTest.mat
+- Assets/Oculus/Avatar/Resources/Materials/Expressive/Avatar_Mobile_CombinedMeshExpressive.shader
+- Assets/infinite_fanstasy_free/Resources/ambiant/light_forest/6_ambiant.ogg
+- Assets/infinite_fanstasy_free/Resources/heroic/med/1_heroic_med.ogg
+- Assets/Oculus/VR/Resources/Underlay Transparent Occluder.shader
+- Assets/Oculus/VR/Resources/Texture2D Blit.shader
+- Assets/Oculus/Avatar/Resources/Materials/Expressive/Avatar_PC_SingleComponentExpressive.shader
+- Assets/Oculus/Avatar/Resources/Materials/AvatarPBRV2Simple.shader
+- Assets/infinite_fanstasy_free/Resources/adventure/med/1_adventure_med.ogg
+- Assets/infinite_fanstasy_free/Resources/adventure/forte/7_adventure_forte.ogg
+- Assets/Oculus/Avatar/Resources/FallbackTextures/fallback_normal_256.png
+- Assets/infinite_fanstasy_free/Resources/adventure/soft/2_adventure_soft.ogg
+- Assets/GoogleVR/Legacy/Resources/GvrAudioMixer.mixer
+- Assets/DaydreamRenderer/Resources/shadowMask.shader
+- Assets/Oculus/Avatar/Resources/Materials/Expressive/Avatar_Mobile_SingleComponentExpressive.shader
+- Assets/Oculus/VR/Resources/OVRMRCameraFrame.shader
+- Assets/Resources/ONSPSettings.asset
+- Assets/Oculus/Avatar/Resources/Materials/AvatarSurfaceShaderPBSV2.shader
+- Assets/infinite_fanstasy_free/Resources/heroic/forte/1_heroic_forte.ogg
+- Assets/infinite_fanstasy_free/Resources/adventure/forte/2_adventure_forte.ogg
+- Assets/DaydreamElements/Main/Resources/Materials/ScreenFade.mat
+- Assets/infinite_fanstasy_free/Resources/adventure/soft_end/1_adventure_start.ogg
+- Assets/DaydreamElements/Main/Resources/Materials/UIOverlayNoZTest.mat
+- Assets/Oculus/Avatar/Resources/FallbackTextures/fallback_diffuse_roughness_1024.png
+- Assets/infinite_fanstasy_free/Resources/heroic/soft/2_heroic_soft.ogg
+- Assets/Oculus/Avatar/Resources/Materials/Version1.5/Avatar_Mobile_SingleComponent.shader
+- Assets/Oculus/Avatar/Resources/Materials/AvatarMaterialStateShader.cginc
+- Assets/Oculus/Avatar/Resources/Materials/Expressive/AvatarEyeLens.shader
+- Assets/Oculus/Avatar/Resources/Materials/AvatarSurfaceShader.shader
+- Assets/infinite_fanstasy_free/Resources/adventure/forte/5_adventure_forte.ogg
+- Assets/Oculus/Avatar/Resources/FallbackTextures/fallback_normal_1024.tif
+- Assets/infinite_fanstasy_free/Resources/adventure/soft/5_adventure_soft.ogg
+- Assets/Oculus/VR/Resources/Underlay Impostor.shader
+- Assets/infinite_fanstasy_free/Resources/adventure/soft/7_adventure_soft.ogg
+- Assets/infinite_fanstasy_free/Resources/adventure/forte/1_adventure_forte.ogg
+- Assets/infinite_fanstasy_free/Resources/heroic/soft/4_heroic_soft.ogg
+- Assets/DaydreamRenderer/Resources/shadowFilter.shader
+- Assets/infinite_fanstasy_free/Resources/heroic/med/4_heroic_med.ogg
+- Assets/infinite_fanstasy_free/Resources/heroic/forte_end/3_heroic_start.ogg
+Dependencies: []

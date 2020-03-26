@@ -1,0 +1,17 @@
+ManifestFileVersion: 0
+CRC: 3993180644
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: d0877bd326816eac1d0c41142cf22b71
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 3f7d0c5e0986ec71841622bcb2f9be1c
+HashAppended: 0
+ClassTypes:
+- Class: 83
+  Script: {instanceID: 0}
+Assets:
+- Assets/Sounds/laugh.ogg
+- Assets/Sounds/hmm.ogg
+Dependencies: []

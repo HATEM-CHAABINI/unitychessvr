@@ -1,0 +1,148 @@
+ManifestFileVersion: 0
+CRC: 2574722539
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 0dcd25c9e402fcd65143657b70558738
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: c4af6b568b2bf81c8a53cab3e03244f5
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 20
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 64
+  Script: {instanceID: 0}
+- Class: 81
+  Script: {instanceID: 0}
+- Class: 90
+  Script: {instanceID: 0}
+- Class: 92
+  Script: {instanceID: 0}
+- Class: 95
+  Script: {instanceID: 0}
+- Class: 102
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: df9f338034892c44ebb62d97894772f1, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 7e933e81d3c20c74ea6fdc708a67e3a5, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 7aaf960227867044282d921171d2d7ac, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: d78e562282a62924eb870537cbb2bc6e, type: 3}
+- Class: 114
+  Script: {fileID: 1980459831, guid: f5f67c52d1564df4a8936ccd202a3bd8, type: 3}
+- Class: 114
+  Script: {fileID: 1741964061, guid: f5f67c52d1564df4a8936ccd202a3bd8, type: 3}
+- Class: 114
+  Script: {fileID: -619905303, guid: f5f67c52d1564df4a8936ccd202a3bd8, type: 3}
+- Class: 114
+  Script: {fileID: -405508275, guid: f5f67c52d1564df4a8936ccd202a3bd8, type: 3}
+- Class: 114
+  Script: {fileID: -765806418, guid: f5f67c52d1564df4a8936ccd202a3bd8, type: 3}
+- Class: 114
+  Script: {fileID: -900027084, guid: f5f67c52d1564df4a8936ccd202a3bd8, type: 3}
+- Class: 114
+  Script: {fileID: 708705254, guid: f5f67c52d1564df4a8936ccd202a3bd8, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 7dda4bb2d5509e44e978d2bf56e25d7c, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 41679d3338266415f88d226e6bf3d0be, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: aed62bf3ae2456c408f247f96808ce96, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: a9d91655c326ddc4cb1c5682d54bf4ac, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 5178bc8574ce2bf4388e787a2e2af326, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: b1156c073149742478887bb24456f32d, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 2c519d3786a151e42829d8439f66595b, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 311793381eb9d45149dc1a422000a9fd, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 51b65678ccdd949e9a58874d2880c0ef, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: eb5dd43baba2d4dc1bab789615567e3d, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: ecd9463bbd7994be09b972947a085067, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: f4ee199cdc1304b2090f019e4f488674, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: aa952cbcc0eb13d4ca558b6da550ff55, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 7c52851ea0de74a228fa29a84de008ba, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: fcd4baceb58cc40c98e500572bede6a6, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 41251d5f89d5546bb9d8ba907686b71f, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: b5cd7f7fcfc8a4c1fbc201ccc579556d, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 120
+  Script: {instanceID: 0}
+- Class: 124
+  Script: {instanceID: 0}
+- Class: 128
+  Script: {instanceID: 0}
+- Class: 137
+  Script: {instanceID: 0}
+- Class: 212
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+- Class: 222
+  Script: {instanceID: 0}
+- Class: 223
+  Script: {instanceID: 0}
+- Class: 224
+  Script: {instanceID: 0}
+- Class: 225
+  Script: {instanceID: 0}
+Assets:
+- Assets/LowpolyVegetationPackFree/Prefabs/Stump_03.prefab
+- Assets/LowpolyVegetationPackFree/Prefabs/Stone_3.prefab
+- Assets/LowpolyVegetationPackFree/Prefabs/FirTree_02.prefab
+- Assets/DaydreamElements/Elements/ClickMenu/Prefabs/MenuTooltip.prefab
+- Assets/DaydreamElements/Elements/ClickMenu/Prefabs/MenuIcon.prefab
+- Assets/GoogleVR/Prefabs/Controller/GvrControllerPointer.prefab
+- Assets/LowpolyVegetationPackFree/Prefabs/DeadTree_08.prefab
+- Assets/LowpolyVegetationPackFree/Prefabs/TreeType1_07.prefab
+- Assets/DaydreamElements/Elements/ClickMenu/Prefabs/MenuRoot.prefab
+- Assets/GoogleVR/Prefabs/Controller/GvrControllerMain.prefab
+- Assets/LowpolyVegetationPackFree/Prefabs/Cloud_3.prefab
+- Assets/LowpolyVegetationPackFree/Prefabs/Vine_1.prefab
+- Assets/LowpolyVegetationPackFree/Prefabs/TreeType2_06.prefab
+- Assets/GoogleVR/Prefabs/GvrEditorEmulator.prefab
+- Assets/LowpolyVegetationPackFree/Prefabs/Shrub_03.prefab
+- Assets/LowpolyVegetationPackFree/Prefabs/Grass3D_08.prefab
+- Assets/Oculus/VR/Prefabs/OVRCameraRig.prefab
+- Assets/GoogleVR/Prefabs/Controller/Tooltips/GvrControllerTooltipsTemplate.prefab
+- Assets/GoogleVR/Prefabs/EventSystem/GvrEventSystem.prefab
+- Assets/LowpolyVegetationPackFree/Prefabs/Terrain_02.prefab
+- Assets/LowpolyVegetationPackFree/Prefabs/Grass3D_10.prefab
+- Assets/Oculus/VR/Prefabs/OVRControllerPrefab.prefab
+- Assets/GoogleVR/Prefabs/Headset/GvrHeadset.prefab
+Dependencies:
+- C:/Users/aymen/Desktop/Chess/my-vr-chessr/my-vr-chess-master/OVRAssetBundles/OVRMasterBundle/asset_mat0
+- C:/Users/aymen/Desktop/Chess/my-vr-chessr/my-vr-chess-master/OVRAssetBundles/OVRMasterBundle/asset_mat1
+- C:/Users/aymen/Desktop/Chess/my-vr-chessr/my-vr-chess-master/OVRAssetBundles/OVRMasterBundle/asset_asset1
+- C:/Users/aymen/Desktop/Chess/my-vr-chessr/my-vr-chess-master/OVRAssetBundles/OVRMasterBundle/asset_png1
+- C:/Users/aymen/Desktop/Chess/my-vr-chessr/my-vr-chess-master/OVRAssetBundles/OVRMasterBundle/asset_fbx0
+- C:/Users/aymen/Desktop/Chess/my-vr-chessr/my-vr-chess-master/OVRAssetBundles/OVRMasterBundle/asset_ttf0

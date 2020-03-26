@@ -1,0 +1,18 @@
+ManifestFileVersion: 0
+CRC: 1823927954
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: e1c6640ad793a66e8b13081f1a1af02f
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: f19fbf085e00d23fbc8d6cf7b345590b
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+Assets:
+- Assets/LowpolyVegetationPackFree/Textures/PalettesVegetationsPackBonusFree.psd
+- Assets/LowpolyVegetationPackFree/Textures/PalettesVegetationPackFree.psd
+- Assets/GoogleVR/Demos/Textures/GVRDemo/bigCube_translucent.psd
+Dependencies: []

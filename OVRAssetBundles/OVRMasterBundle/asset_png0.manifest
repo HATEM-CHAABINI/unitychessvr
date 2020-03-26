@@ -1,0 +1,47 @@
+ManifestFileVersion: 0
+CRC: 1768513045
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 91a0feac4f49dde0fa2f9c0b1dcdbd3b
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: ea5a42e0fd8ea905efa7aa926a3b8944
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Oculus/VR/Textures/OculusTouchForRift/touchController_albedo.png
+- Assets/my/scene/icon/sit.png
+- Assets/DaydreamElements/Elements/ClickMenu/Demo/Sprites/CircleOrange.png
+- Assets/DaydreamElements/Elements/ClickMenu/Demo/Sprites/RollerGray.png
+- Assets/Arcane Cyber/Chess/Textures/marble-01b.png
+- Assets/my/scene/icon/angry.png
+- Assets/character/face5.png
+- Assets/DaydreamElements/Elements/ClickMenu/Demo/Sprites/FrameGray.png
+- Assets/character/face3.png
+- Assets/character/hair.png
+- Assets/Arcane Cyber/Chess/Textures/marble-01a.png
+- Assets/DaydreamElements/Elements/ClickMenu/Demo/Sprites/DeleteGray.png
+- Assets/character/face2.png
+- Assets/my/scene/icon/sad 1.png
+- Assets/my/scene/icon/dance.png
+- Assets/DaydreamElements/Elements/ClickMenu/Demo/Sprites/EraserGray.png
+- Assets/my/scene/icon/emotion 1.png
+- Assets/character/waist.png
+- Assets/character/face.png
+- Assets/GoogleVR/Textures/ddcontroller.png
+- Assets/DaydreamElements/Elements/ClickMenu/Demo/Sprites/SaveGray.png
+- Assets/character/body.png
+- Assets/character/legs.png
+- Assets/my/scene/icon/happy.png
+- Assets/DaydreamElements/Elements/ClickMenu/Demo/Sprites/CirclePurple.png
+- Assets/character/feet.png
+- Assets/DaydreamElements/Elements/ClickMenu/Demo/Sprites/CircleBlack.png
+- Assets/my/scene/icon/arms crossed.png
+- Assets/my/scene/icon/chat.png
+- Assets/DaydreamElements/Elements/ClickMenu/Demo/Sprites/CircleRed.png
+Dependencies: []

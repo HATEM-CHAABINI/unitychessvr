@@ -1,0 +1,53 @@
+ManifestFileVersion: 0
+CRC: 2754957269
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 4bc048d4c737408b07c5814b91f70054
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 107007076e3bac78c7822f715585a82f
+HashAppended: 0
+ClassTypes:
+- Class: 114
+  Script: {fileID: 11500000, guid: a9d91655c326ddc4cb1c5682d54bf4ac, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: e3d3480dc2db50146bf7ac1c7c2d6e77, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/my/scene/MenuTree/Movement.asset
+- Assets/DaydreamElements/Elements/ClickMenu/Demo/Data/Save.asset
+- Assets/my/scene/MenuTree/Emotion.asset
+- Assets/my/scene/MenuTree/Laugh.asset
+- Assets/DaydreamElements/Elements/ClickMenu/Demo/Data/Clear.asset
+- Assets/my/scene/MenuTree/Sit.asset
+- Assets/DaydreamElements/Elements/ClickMenu/Demo/Data/Pen.asset
+- Assets/DaydreamElements/Elements/ClickMenu/Demo/Data/Marker.asset
+- Assets/my/scene/MenuTree/ClickMenuTree.asset
+- Assets/my/scene/MenuTree/Dance.asset
+- Assets/DaydreamElements/Elements/ClickMenu/Demo/Data/Painting.asset
+- Assets/DaydreamElements/Elements/ClickMenu/Demo/Data/Undo.asset
+- Assets/my/scene/MenuTree/Angry.asset
+- Assets/DaydreamElements/Elements/ClickMenu/Demo/Data/Purple.asset
+- Assets/my/scene/MenuTree/Chat.asset
+- Assets/DaydreamElements/Elements/ClickMenu/Demo/Data/White.asset
+- Assets/DaydreamElements/Elements/ClickMenu/Demo/Data/Colors.asset
+- Assets/DaydreamElements/Elements/ClickMenu/Demo/Data/Roller.asset
+- Assets/DaydreamElements/Elements/ClickMenu/Demo/Data/Blue.asset
+- Assets/DaydreamElements/Elements/ClickMenu/Demo/Data/Red.asset
+- Assets/my/scene/MenuTree/Sad.asset
+- Assets/DaydreamElements/Elements/ClickMenu/Demo/Data/Yellow.asset
+- Assets/my/scene/MenuTree/Happy.asset
+- Assets/my/scene/MenuTree/Die.asset
+- Assets/DaydreamElements/Elements/ClickMenu/Demo/Data/Pencil.asset
+- Assets/DaydreamElements/Elements/ClickMenu/Demo/Data/Eraser.asset
+- Assets/DaydreamElements/Elements/ClickMenu/Demo/Data/Load.asset
+- Assets/DaydreamElements/Elements/ClickMenu/Demo/Data/Brushes.asset
+- Assets/DaydreamElements/Elements/ClickMenu/Demo/Data/Black.asset
+- Assets/my/scene/MenuTree/ArmsCrossed.asset
+Dependencies:
+- C:/Users/aymen/Desktop/Chess/my-vr-chessr/my-vr-chess-master/OVRAssetBundles/OVRMasterBundle/asset_png0
+- C:/Users/aymen/Desktop/Chess/my-vr-chessr/my-vr-chess-master/OVRAssetBundles/OVRMasterBundle/asset_png1

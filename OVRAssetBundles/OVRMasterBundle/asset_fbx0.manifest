@@ -1,0 +1,66 @@
+ManifestFileVersion: 0
+CRC: 1685165471
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: e1a9e98b37f04f32d8f66edee49ead2d
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 77da83e0ccec3535a80e51f4911976eb
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 90
+  Script: {instanceID: 0}
+- Class: 95
+  Script: {instanceID: 0}
+- Class: 137
+  Script: {instanceID: 0}
+Assets:
+- Assets/Oculus/VR/Meshes/OculusTouchForQuestAndRiftS/OculusTouchForQuestAndRiftS_Right.fbx
+- Assets/LowpolyVegetationPackFree/Modeles/TreeType1_07.fbx
+- Assets/GPVFX_3D Chess Set/3D/GPVFX_Rook.fbx
+- Assets/character/nendoroid_girl.fbx
+- Assets/LowpolyVegetationPackFree/Modeles/TreeType2_06.fbx
+- Assets/LowpolyVegetationPackFree/Modeles/Vine_1.fbx
+- Assets/LowpolyVegetationPackFree/Modeles/Cloud_3.fbx
+- Assets/GPVFX_3D Chess Set/3D/GPVFX_Chessboard Base_Wood.fbx
+- Assets/Oculus/VR/Meshes/GearVrController/GearVrController.fbx
+- Assets/GPVFX_3D Chess Set/3D/GPVFX_King.fbx
+- Assets/LowpolyVegetationPackFree/Modeles/FirTree_02.fbx
+- Assets/LowpolyVegetationPackFree/Modeles/DeadTree_08.fbx
+- Assets/character/Animations.fbx
+- Assets/SimplePeople/Models/SimplePeople.fbx
+- Assets/LowpolyVegetationPackFree/Modeles/Grass3D_08.fbx
+- Assets/LowpolyVegetationPackFree/Modeles/Stump_03.fbx
+- Assets/LowpolyVegetationPackFree/Modeles/Grass3D_10.fbx
+- Assets/Oculus/VR/Meshes/OculusTouchForRift/left_touch_controller_model_skel.fbx
+- Assets/Oculus/VR/Meshes/OculusTouchForQuestAndRiftS/OculusTouchForQuestAndRiftS_Left.fbx
+- Assets/LowpolyVegetationPackFree/Modeles/Terrain_02.fbx
+- Assets/GPVFX_3D Chess Set/3D/GPVFX_Bishop.fbx
+- Assets/GPVFX_3D Chess Set/3D/GPVFX_Knight.fbx
+- Assets/Oculus/VR/Meshes/OculusTouchForRift/right_touch_controller_model_skel.fbx
+- Assets/LowpolyVegetationPackFree/Modeles/Stone_3.fbx
+- Assets/GPVFX_3D Chess Set/3D/GPVFX_Queen.fbx
+- Assets/GPVFX_3D Chess Set/3D/GPVFX_Pawn.fbx
+- Assets/GoogleVR/Models/ddcontroller.fbx
+- Assets/Oculus/VR/Meshes/OculusGoController/OculusGoController.fbx
+- Assets/LowpolyVegetationPackFree/Modeles/Shrub_03.fbx
+Dependencies:
+- C:/Users/aymen/Desktop/Chess/my-vr-chessr/my-vr-chess-master/OVRAssetBundles/OVRMasterBundle/asset_mat0
+- C:/Users/aymen/Desktop/Chess/my-vr-chessr/my-vr-chess-master/OVRAssetBundles/OVRMasterBundle/asset_mat1

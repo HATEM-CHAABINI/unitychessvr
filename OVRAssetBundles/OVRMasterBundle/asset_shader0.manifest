@@ -1,0 +1,21 @@
+ManifestFileVersion: 0
+CRC: 599423289
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 7854ea1ecdbaae3e471961e6ee49d8a0
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 7e9ee104d6bb707fb2602b751e6f78b1
+HashAppended: 0
+ClassTypes:
+- Class: 48
+  Script: {instanceID: 0}
+Assets:
+- Assets/GoogleVR/Shaders/GvrUIOverlayFont.shader
+- Assets/GoogleVR/Shaders/GvrAdditiveOverlay.shader
+- Assets/DaydreamElements/Common/Demo/Shaders/UnlitTransparentColor.shader
+- Assets/GoogleVR/Shaders/GvrController.shader
+- Assets/GoogleVR/Demos/Shaders/GVRDemo/GVRDemoUnlitGrayscaleToColor.shader
+- Assets/GoogleVR/Shaders/GvrUIOverlay.shader
+Dependencies: []

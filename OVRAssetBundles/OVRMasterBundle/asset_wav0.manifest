@@ -1,0 +1,23 @@
+ManifestFileVersion: 0
+CRC: 570315203
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: c85ec6cd09ad16531df44dd488566a6e
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 3f7d0c5e0986ec71841622bcb2f9be1c
+HashAppended: 0
+ClassTypes:
+- Class: 83
+  Script: {instanceID: 0}
+Assets:
+- Assets/Sounds/dance.wav
+- Assets/DaydreamElements/Elements/ClickMenu/Demo/Sounds/Hover.wav
+- Assets/Sounds/select.wav
+- Assets/Sounds/girl-laugh.wav
+- Assets/Sounds/chess.wav
+- Assets/Sounds/fall.wav
+- Assets/DaydreamElements/Elements/ClickMenu/Demo/Sounds/Select.wav
+- Assets/DaydreamElements/Elements/ClickMenu/Demo/Sounds/Back.wav
+Dependencies: []

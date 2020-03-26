@@ -1,0 +1,37 @@
+ManifestFileVersion: 0
+CRC: 131129390
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 9385a3983f04b2f4cbf688f1b5ff4f5e
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: ea5a42e0fd8ea905efa7aa926a3b8944
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/DaydreamElements/Elements/ClickMenu/Demo/Sprites/PaletteGray.png
+- Assets/DaydreamElements/Elements/ClickMenu/Demo/Sprites/PencilGray.png
+- Assets/GoogleVR/Textures/cursor_pointer.png
+- Assets/character/arm.png
+- Assets/DaydreamElements/Elements/ClickMenu/Demo/Sprites/BackButtonGray.png
+- Assets/DaydreamElements/Elements/ClickMenu/Demo/Sprites/CircleBlue.png
+- Assets/DaydreamElements/Elements/ClickMenu/Demo/Sprites/UndoGray.png
+- Assets/my/scene/icon/die.png
+- Assets/my/scene/icon/laugh.png
+- Assets/DaydreamElements/Elements/ClickMenu/Demo/Sprites/PenGray.png
+- Assets/character/face1.png
+- Assets/DaydreamElements/Elements/ClickMenu/Demo/Sprites/BrushGray.png
+- Assets/my/scene/icon/movement 1.png
+- Assets/GoogleVR/Textures/laserTexture.png
+- Assets/GoogleVR/Textures/dropShadow.png
+- Assets/DaydreamElements/Elements/ClickMenu/Demo/Sprites/MarkerGray.png
+- Assets/DaydreamElements/Elements/ClickMenu/Demo/Sprites/CircleYellow.png
+- Assets/DaydreamElements/Elements/ClickMenu/Demo/Sprites/LoadGray.png
+- Assets/DaydreamElements/Elements/ClickMenu/Demo/Sprites/CircleGreen.png
+- Assets/DaydreamElements/Elements/ClickMenu/Demo/Sprites/CircleWhite.png
+Dependencies: []

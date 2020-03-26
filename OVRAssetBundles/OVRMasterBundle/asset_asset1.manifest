@@ -1,0 +1,27 @@
+ManifestFileVersion: 0
+CRC: 2624250606
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: efdef9b379d958be772fb96c67b9fec1
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 107007076e3bac78c7822f715585a82f
+HashAppended: 0
+ClassTypes:
+- Class: 114
+  Script: {fileID: 11500000, guid: a9d91655c326ddc4cb1c5682d54bf4ac, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: e3d3480dc2db50146bf7ac1c7c2d6e77, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/DaydreamElements/Elements/ClickMenu/Demo/Data/TreeRoot.asset
+- Assets/DaydreamElements/Elements/ClickMenu/Demo/Data/Green.asset
+- Assets/DaydreamElements/Elements/ClickMenu/Demo/Data/Orange.asset
+Dependencies:
+- C:/Users/aymen/Desktop/Chess/my-vr-chessr/my-vr-chess-master/OVRAssetBundles/OVRMasterBundle/asset_asset0
+- C:/Users/aymen/Desktop/Chess/my-vr-chessr/my-vr-chess-master/OVRAssetBundles/OVRMasterBundle/asset_png0
+- C:/Users/aymen/Desktop/Chess/my-vr-chessr/my-vr-chess-master/OVRAssetBundles/OVRMasterBundle/asset_png1

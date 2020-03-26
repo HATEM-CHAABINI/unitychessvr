@@ -1,0 +1,55 @@
+ManifestFileVersion: 0
+CRC: 3110570447
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 7d902f63c2975dd796ad56d1cbbb66c6
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: fe397485c3cec1106b49e9ff95e8f8a2
+HashAppended: 0
+ClassTypes:
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+Assets:
+- Assets/GoogleVR/Materials/TooltipImage.mat
+- Assets/GoogleVR/Materials/ControllerBase.mat
+- Assets/GPVFX_3D Chess Set/3D/Materials/Gold.002.mat
+- Assets/LowpolyVegetationPackFree/Materials/PalettesVegetationPackFree.mat
+- Assets/GoogleVR/Demos/Materials/GVRDemo/CubeBlue.mat
+- Assets/GPVFX_3D Chess Set/3D/Materials/Material.019.mat
+- Assets/character/Materials/FEET1.mat
+- Assets/character/Materials/BODY1.mat
+- Assets/GoogleVR/Demos/Materials/GVRDemo/CubeRed.mat
+- Assets/LowpolyVegetationPackFree/Materials/PalettesVegetationsPackBonusFree.mat
+- Assets/GPVFX_3D Chess Set/3D/Materials/Outline.mat
+- Assets/character/Materials/chara000_LEFT_ARM1.mat
+- Assets/character/Materials/WAIST1.mat
+- Assets/Oculus/VR/Meshes/OculusTouchForRift/Materials/OculusTouchForRift_Material.mat
+- Assets/GoogleVR/Materials/ControllerLaser.mat
+- Assets/character/Materials/FACE1.mat
+- Assets/Arcane Cyber/Chess/Materials/Pieces/Marble/White Bishop.mat
+- Assets/character/Materials/LEGS1.mat
+- Assets/GPVFX_3D Chess Set/3D/Materials/WHITE_PRIMARY.001.mat
+- Assets/Oculus/VR/Materials/GearVrController/GearVrControllerMat_128.mat
+- Assets/GPVFX_3D Chess Set/3D/Materials/White_Board.001.mat
+- Assets/character/Materials/HAIR1.mat
+- Assets/GPVFX_3D Chess Set/3D/Materials/Chessboard Base_Painted.001.mat
+- Assets/Arcane Cyber/Chess/Materials/Pieces/Marble/Black Bishop.mat
+- Assets/character/Materials/TAIL1.mat
+- Assets/DaydreamElements/Elements/ClickMenu/Demo/Materials/PieMaterial.mat
+- Assets/Oculus/VR/Meshes/OculusGoController/Materials/OculusGoControllerMat.mat
+- Assets/character/Materials/WAIST1_alpha.mat
+- Assets/GPVFX_3D Chess Set/3D/Materials/Material.018.mat
+- Assets/GoogleVR/Materials/TooltipFont.mat
+Dependencies:
+- C:/Users/aymen/Desktop/Chess/my-vr-chessr/my-vr-chess-master/OVRAssetBundles/OVRMasterBundle/asset_png0
+- C:/Users/aymen/Desktop/Chess/my-vr-chessr/my-vr-chess-master/OVRAssetBundles/OVRMasterBundle/asset_png1
+- C:/Users/aymen/Desktop/Chess/my-vr-chessr/my-vr-chess-master/OVRAssetBundles/OVRMasterBundle/asset_shader0
+- C:/Users/aymen/Desktop/Chess/my-vr-chessr/my-vr-chess-master/OVRAssetBundles/OVRMasterBundle/asset_psd0
+- C:/Users/aymen/Desktop/Chess/my-vr-chessr/my-vr-chess-master/OVRAssetBundles/OVRMasterBundle/asset_tif0
+- C:/Users/aymen/Desktop/Chess/my-vr-chessr/my-vr-chess-master/OVRAssetBundles/OVRMasterBundle/asset_tga0

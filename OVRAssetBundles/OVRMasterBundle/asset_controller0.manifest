@@ -1,0 +1,23 @@
+ManifestFileVersion: 0
+CRC: 2533217158
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: b29d850bb184662b1110e97ebb3e9dba
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 948a4e39e480688a15a7e4d52fae34c3
+HashAppended: 0
+ClassTypes:
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 91
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 69f5510d3316d4046a33d89ed0e151e7, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+Assets:
+- Assets/character/controller.controller
+Dependencies:
+- C:/Users/aymen/Desktop/Chess/my-vr-chessr/my-vr-chess-master/OVRAssetBundles/OVRMasterBundle/asset_fbx0

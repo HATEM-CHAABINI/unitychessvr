@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # my-vr-chess
 mobile-system-programming course project
 
@@ -29,3 +30,6 @@ Or some movements, for example, let's dance:
 ![dance](https://raw.githubusercontent.com/yangyiming0516/my-vr-chess/master/example_pic/dance.png)
 
 all operations above have interesting sounds
+=======
+# unitychessvr
+>>>>>>> 3ec35bf4a5e5139255b8747aa04a6b64bab1bf73

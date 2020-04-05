@@ -3,7 +3,12 @@ using System.Collections.Generic;
 using UnityEngine;
 
 public class piece : MonoBehaviour {
+    public GameObject FloatTextPrefab;
+
     public int side; //0 for white, 1 for black
+    public string Nom;
+    public string habitat;
+    public string carvi;
     float height;
     float dest;
     bool lift;
@@ -29,7 +34,12 @@ public class piece : MonoBehaviour {
         if (lift)
             if (gameObject.transform.position.y < dest)
             {
+                sound.Play();
+                
                 gameObject.transform.Translate(Vector3.up * speed * Time.deltaTime);
+                if (FloatTextPrefab) { 
+                ShowFloatingText();
+                }
             }
             else
             {
@@ -44,7 +54,8 @@ public class piece : MonoBehaviour {
             {
                 fall = false;
                 gameObject.transform.position.Set(gameObject.transform.position.x, 0, gameObject.transform.position.z);
-                sound.Play();
+
+                //sound.Play();
             }
         if (moving)
         {
@@ -74,8 +85,18 @@ public class piece : MonoBehaviour {
         fall = true;
     }
 
+    void ShowFloatingText()
+    {
+       var go = Instantiate(FloatTextPrefab, new Vector3(2.43f, 3.47f, 3.09f), Quaternion.Euler(0f, 35.428f, 0f));
+        go.transform.GetChild(1).GetComponent<TextMesh>().text = Nom + "\n" + habitat + "\n" + carvi;
+        // TextP.GetComponent<TextMesh>().text = "aaaa";
+        //  go.GetComponent<TextMesh>().text = Nom + "\n" + habitat + "\n" + carvi ;
+    }
+
     public void moveto(Vector3 t)
     {
+        //sound.Play();
+
         target = t;
         target.y = gameObject.transform.position.y;
         moving = true;

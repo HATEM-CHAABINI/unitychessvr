@@ -41,7 +41,8 @@ namespace DaydreamElements.SwipeMenu {
     }
 
     void Update() {
-      if (GvrControllerInput.ClickButtonDown && timeOut >= MIN_TIMEOUT) {
+            
+      if (OVRInput.Get(OVRInput.Button.PrimaryIndexTrigger) && timeOut >= MIN_TIMEOUT) {
         audioSource.Play();
         GameObject newPaperPlane = Instantiate(rigidPaperPlane);
         newPaperPlane.GetComponent<RigidPaperAirplane>().type = type;

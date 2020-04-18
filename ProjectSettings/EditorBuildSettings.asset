@@ -11,4 +11,16 @@ EditorBuildSettings:
   - enabled: 0
     path: Assets/DaydreamElements/Elements/SwipeMenu/Demo/SwipeMenuDemo.unity
     guid: 1b4fe1bdcd3a2c04081ccd1093f96da7
+  - enabled: 0
+    path: Assets/login/login.unity
+    guid: 2977635213c014c39b8c6ec9492884cf
+  - enabled: 0
+    path: Assets/login/scene/chess.unity
+    guid: 50b8f3aebd6734fc0abc2b819202f4eb
+  - enabled: 0
+    path: Assets/infinite_fanstasy_free/Scene/Demo Scene.unity
+    guid: 0fe1ccf32f7ef454ca827e7de130197a
+  - enabled: 0
+    path: Assets/Chess/Demo/Demo.unity
+    guid: 8835e73a6e3e244ec8c45b515cdb8ff9
   m_configObjects: {}

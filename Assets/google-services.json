@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "970631059994",
+    "firebase_url": "https://multichess-acdc6.firebaseio.com",
+    "project_id": "multichess-acdc6",
+    "storage_bucket": "multichess-acdc6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:970631059994:android:72d7aadec9f5366cbc8fa3",
+        "android_client_info": {
+          "package_name": "com.google.vr.Chess"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "970631059994-cs8ai43fe3hr34049ftqckdjhrpgq2t0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCSb1tmbNV_VN6LjDpU42oZVERAHpI3JqY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "970631059994-cs8ai43fe3hr34049ftqckdjhrpgq2t0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
